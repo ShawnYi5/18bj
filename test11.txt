@@ -3,3 +3,5 @@ helloe
 
 def  class()L
 	pass
+
+insert new
