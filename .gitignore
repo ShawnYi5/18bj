@@ -1,1 +1,7 @@
-*.pyc
+__pycache__
+.idea
+*.log
+Thumbs.db
+*.sqlite3
+.pytest_cache
+.coverage
